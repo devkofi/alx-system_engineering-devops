@@ -1,1 +1,1 @@
-Project to illustrate the use of permissions on a Unix system
+0-iam_betty - Script to switch user
